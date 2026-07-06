@@ -1,4 +1,4 @@
-# 
+# VIP 均值回归交易机器人 预设 for Mac OS | 专业 均值回归交易机器人 预设 for PC Windows. Featuring 动量分析 and 期货交易 — optimized for maximum performance.
 
 
 
